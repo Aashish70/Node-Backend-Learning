@@ -1,4 +1,4 @@
-# TweetTube Backend
+# Node.js Backend
 
 This project is a backend implementation of a YouTube+Twitter-like application, developed as a learning exercise for advanced backend concepts.
 
